@@ -28,7 +28,7 @@ export default function Projects() {
       id="projects"
       className="bg-black text-white py-20 px-4 max-w-5xl mx-auto"
     >
-      <h2 className="text-3xl font-bold mb-12 text-center">Projects</h2>
+      <h2 className="text-3xl font-bold mb-12 text-center text-blue-400">Projects</h2>
       <div className="grid gap-10 md:grid-cols-2">
         {projects.map((project, index) => (
           <div

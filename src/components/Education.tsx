@@ -18,9 +18,9 @@ export default function Education() {
   return (
     <section
       id="education"
-      className="bg-zinc-950 text-white py-20 px-4 max-w-5xl mx-auto"
+      className="bg-zinc-950 text-white py-4 px-4 max-w-5xl mx-auto"
     >
-      <h2 className="text-3xl font-bold mb-12 text-center">Education</h2>
+      <h2 className="text-3xl font-bold mb-12 text-center text-blue-400">Education</h2>
       <div className="space-y-8">
         {education.map((edu, idx) => (
           <div

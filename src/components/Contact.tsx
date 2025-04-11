@@ -2,9 +2,9 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="bg-zinc-950 text-white py-20 px-4 max-w-5xl mx-auto"
+      className="bg-zinc-950 text-white py-2 px-4 max-w-5xl mx-auto"
     >
-      <h2 className="text-3xl font-bold mb-12 text-center">Contact</h2>
+      <h2 className="text-3xl font-bold mb-12 text-center text-blue-400">Contact</h2>
       <div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6 shadow-md">
         <p className="text-gray-300 mb-6 text-center">
           Feel free to reach out to me via email.

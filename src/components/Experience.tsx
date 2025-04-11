@@ -19,9 +19,9 @@ export default function Experience() {
   return (
     <section
       id="experience"
-      className="bg-zinc-950 text-white py-20 px-4 max-w-5xl mx-auto"
+      className="bg-zinc-950 text-white py-8 px-4 max-w-5xl mx-auto"
     >
-      <h2 className="text-3xl font-bold mb-12 text-center">Work Experience</h2>
+      <h2 className="text-3xl font-bold mb-12 text-center text-blue-400">Work Experience</h2>
       <div className="relative border-l-2 border-zinc-700 pl-6 space-y-12">
         {experiences.map((exp, idx) => (
           <div key={idx} className="relative">
