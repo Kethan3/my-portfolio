@@ -12,6 +12,12 @@ const education: EducationItem[] = [
     period: "2021 - 2025",
     details: "9.16 CGPA",
   },
+  {
+    degree: "Pre-University Course",
+    institution: "Sri Sapthagiri PU College",
+    period: "2019 - 2021",
+    details: "98.50 %",
+  }
 ];
 
 export default function Education() {
