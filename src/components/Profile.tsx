@@ -8,7 +8,7 @@ export default function Profile() {
       className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-4"
     >
       <img
-        src="/Fire_Phoenix.jpg" // replace with your image in public folder
+        src="/Fire_Phoenix.jpg" 
         alt="Profile"
         className="w-40 h-40 rounded-full border-4 border-white shadow-lg mb-6"
       />
@@ -30,7 +30,7 @@ export default function Profile() {
         </a>
 
         <a
-          href="https://linkedin.com/in/yourprofile"
+          href="https://www.linkedin.com/in/kethan-gowda-51657224b"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-300 hover:text-white transition"
