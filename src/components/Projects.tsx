@@ -7,7 +7,7 @@ type Project = {
 
 const projects: Project[] = [
   {
-    title: "HackerNews Clone",
+    title: "HackerNews Server",
     description:
       "Backend project that replicates the HackerNews API using Hono, Supabase, and Prisma. Deployed on Azure using GitHub Actions.",
     techStack: ["Hono", "TypeScript", "Supabase", "Prisma", "Azure"],
@@ -17,7 +17,7 @@ const projects: Project[] = [
     title: "Decentralized Auction",
     description:
       "A blockchain-based auction platform built with Solidity and React. Allows secure bidding and transparent smart contract logic on the Ethereum network.",
-    techStack: ["Solidity", "React", "Ethers.js", "Hardhat", "Blockchain"],
+    techStack: ["Solidity", "React","JavaScript", "Truffle", "Blockchain"],
     link: "https://github.com/Kethan3/decentralized-auction",
   },
 ];
