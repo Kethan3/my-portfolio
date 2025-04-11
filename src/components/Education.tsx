@@ -7,7 +7,7 @@ type EducationItem = {
 
 const education: EducationItem[] = [
   {
-    degree: "Bachelor of Technology in Computer Science",
+    degree: "Bachelor of Engineering in Computer Science",
     institution: "Siddaganga Institute Of Technology",
     period: "2021 - 2025",
     details: "9.16 CGPA",
